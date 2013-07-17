@@ -38,7 +38,7 @@
       <file leaf-file-name="posts_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="5" selection-start="294" selection-end="294" vertical-scroll-proportion="0.48672566">
+            <state line="9" column="2" selection-start="119" selection-end="119" vertical-scroll-proportion="0.19911504">
               <folding />
             </state>
           </provider>
@@ -57,7 +57,11 @@
         <entry file="file://$PROJECT_DIR$/app/views/posts/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="2" column="36" selection-start="55" selection-end="55" vertical-scroll-proportion="-1.25">
-              <folding />
+              <folding>
+                <marker date="1373977871000" expanded="true" signature="71:145" placeholder="..." />
+                <marker date="1373977871000" expanded="true" signature="154:225" placeholder="..." />
+                <marker date="1373977871000" expanded="true" signature="234:265" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -681,13 +685,17 @@
     <entry file="file://$PROJECT_DIR$/app/views/posts/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="36" selection-start="55" selection-end="55" vertical-scroll-proportion="-1.25">
-          <folding />
+          <folding>
+            <marker date="1373977871000" expanded="true" signature="71:145" placeholder="..." />
+            <marker date="1373977871000" expanded="true" signature="154:225" placeholder="..." />
+            <marker date="1373977871000" expanded="true" signature="234:265" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="5" selection-start="294" selection-end="294" vertical-scroll-proportion="0.48672566">
+        <state line="9" column="2" selection-start="119" selection-end="119" vertical-scroll-proportion="0.19911504">
           <folding />
         </state>
       </provider>
